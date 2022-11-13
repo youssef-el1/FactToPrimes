@@ -81,7 +81,5 @@ int pgcd(int a,int b)
 }
 int main() {
 	factoriser(1240);
-//	int z=pgcd(,11111);
-//	printf("%d",z);
 	return 0;
 }
